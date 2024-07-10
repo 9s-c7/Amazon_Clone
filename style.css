@@ -18,7 +18,7 @@
     width:113px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size: cover;
     height:50px;
     width:100%;
@@ -151,7 +151,7 @@
 }
 /* main banner */
 .banner{
-    background-image: url(banner.jpg);
+    background-image: url(images/banner.jpg);
     height:330px;
     background-size: cover;
     display: flex;
@@ -368,6 +368,10 @@ ul a:hover{
 .foot_panel4 a:hover{
     text-decoration: underline;
 }
+
+
+
+
 
 
 
